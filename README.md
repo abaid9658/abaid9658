@@ -4,6 +4,9 @@
 
 <br/>
 
+<a href="https://github.com/abaid9658?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/abaidullah-ghouri">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -32,19 +35,45 @@
 
 ## 💫 About Me
 
+<div align="center">
+
+![CS Student](https://img.shields.io/badge/🎓_CS_Student-COMSATS_Islamabad-0e75b6?style=flat-square)
+![CGPA](https://img.shields.io/badge/⭐_CGPA-3.7%2F4.0-0e75b6?style=flat-square)
+![Internships](https://img.shields.io/badge/💼_Internships-3_Completed-0e75b6?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Location-Sahiwal,_Pakistan-0e75b6?style=flat-square)
+
+</div>
+
 I'm a **Computer Science student at COMSATS University Islamabad** (CGPA: **3.7 / 4.0**) and a Full Stack Developer with hands-on experience from three software engineering internships and multiple production-grade projects.
 
 I build scalable **MERN Stack** applications, REST APIs, and modern frontends with **React, Next.js, Node.js, Express.js, MongoDB, and TypeScript** — and alongside that, I actively work in **AI, Machine Learning, and Data Science** with Python and modern ML frameworks.
 
-```yaml
-name: Abaidullah Ghouri
-role: Full Stack Developer · ML Engineer · CS Student
-location: Sahiwal, Pakistan
-currently_building: Scalable MERN + AI-powered platforms
-currently_learning: [Deep Learning, GenAI, RAG, Docker, Kubernetes, AWS, System Design]
-looking_to_collaborate: [Open Source, SaaS, AI, Full Stack Projects]
-fun_fact: "I enjoy turning ideas into production-ready applications."
-```
+I enjoy solving challenging problems, exploring emerging technologies, and building software that creates real-world impact.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Currently Building**
+Scalable MERN + AI-powered platforms
+
+**🌱 Currently Learning**
+Deep Learning, GenAI, RAG, Docker, K8s, AWS, System Design
+
+</td>
+<td width="50%" valign="top">
+
+**👯 Looking to Collaborate On**
+Open Source, SaaS, AI & Full Stack projects
+
+**💬 Ask Me About**
+React, Next.js, Node.js, MongoDB, Python, ML, REST APIs
+
+</td>
+</tr>
+</table>
+
+> ⚡ **Fun fact:** I enjoy turning ideas into production-ready applications while continuously learning new technologies.
 
 <br/>
 
@@ -54,24 +83,42 @@ fun_fact: "I enjoy turning ideas into production-ready applications."
 <tr>
 <td width="100%">
 
-**🚀 Full Stack Developer Intern** — *TeyzixCore Software House*
-Developed production-ready MERN stack features, reusable React components, secure REST APIs, and MongoDB integrations.
+#### 🚀 Full Stack Developer Intern
+**TeyzixCore Software House** &nbsp; `1 Month`
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- Developed production-ready MERN stack features for client web applications
+- Built reusable React UI components and secure Node.js/Express REST APIs
+- Integrated MongoDB databases into backend workflows
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🚀 Full Stack Developer Intern** — *Developer Hubs*
-Built responsive frontend interfaces and full-stack features in an Agile team, collaborating through Git & GitHub.
+#### 🚀 Full Stack Developer Intern
+**Developer Hubs** &nbsp; `1.5 Months`
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0e75b6?style=flat-square)
+
+- Delivered full-stack features using React.js and MongoDB
+- Built responsive, production-ready frontend interfaces
+- Participated in Agile sprints and collaborative code reviews via Git & GitHub
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🚀 Full Stack & Data Science Intern** — *DecodeLabs*
-Delivered MERN applications alongside EDA, fraud detection, and customer segmentation ML models on datasets with millions of records.
+#### 🚀 Full Stack & Data Science Intern
+**DecodeLabs** &nbsp; `2 Months`
+
+![MERN](https://img.shields.io/badge/MERN_Stack-0e75b6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square) ![SMOTE](https://img.shields.io/badge/SMOTE-1a1a2e?style=flat-square) ![PCA](https://img.shields.io/badge/PCA-1a1a2e?style=flat-square)
+
+- Built and integrated MERN stack features for client projects
+- Completed 3 ML projects: EDA pipeline, fraud detection (284K records, SMOTE + Random Forest), and customer segmentation (PCA + K-Means)
+- Worked with production datasets containing millions of records
 
 </td>
 </tr>
@@ -85,28 +132,52 @@ Delivered MERN applications alongside EDA, fraud detection, and customer segment
 <tr>
 <td width="50%" valign="top">
 
-### 🏘️ LocalHub — Smart Community Platform
-Community platform built with **Next.js, TypeScript, MongoDB, Socket.io** — real-time messaging, AI integration, buyer-seller marketplace, and service providers.
+### 🏘️ LocalHub
+**Smart Community Service & Marketplace Platform**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+Real-time community platform with authentication, live messaging, buyer-seller marketplace, service providers, and an AI-integrated, fully responsive UI.
+
+<a href="https://github.com/abaid9658/Smart-Community-Service-Local-Marketplace-Platform"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚍 Naeem Movers — Transport Management
-Complete **MERN** transport platform: online booking, ticketing, payments, AI chatbot, admin dashboard, and route/customer analytics.
+### 🚍 Naeem Movers
+**Transport Management System**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![AI](https://img.shields.io/badge/AI_Chatbot-0e75b6?style=flat-square)
+
+Full MERN transport platform with online booking, ticket management, payments, an AI chatbot, admin dashboard, and route/customer analytics.
+
+<a href="https://github.com/abaid9658?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Brand — Multi-Vendor E-Commerce
-Alibaba-inspired **MERN** marketplace with vendor management, product catalog, cart, orders, payments, and admin dashboard.
+### 🛒 Brand
+**Multi-Vendor E-Commerce Platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Alibaba-inspired marketplace featuring vendor management, authentication, product catalog, shopping cart, orders, payments, and an admin dashboard.
+
+<a href="https://github.com/abaid9658?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 SkillBridge Marketplace
-Fiverr-inspired **MERN** platform connecting freelancers and clients with project management and secure workflows.
+### 💼 SkillBridge
+**Freelance Services Marketplace**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+Fiverr-inspired platform connecting freelancers and clients, with authentication, project management, service listings, and secure workflows.
+
+<a href="https://github.com/abaid9658?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -114,11 +185,43 @@ Fiverr-inspired **MERN** platform connecting freelancers and clients with projec
 
 ### 🤖 Machine Learning Projects
 
-| Project | Stack | Result |
-|---|---|---|
-| **IoT Network Malware Detection** | XGBoost, Python | 93% accuracy · 0.989 ROC-AUC on 2.6M+ records |
-| **VANET Attacker Detection** | XGBoost, Scikit-learn | 99.99% accuracy on 149K records |
-| **VANET Traffic Congestion Classification** | XGBoost, Python | 95%+ accuracy, 4-class model |
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🦠 IoT Network Malware Detection**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+2.6M+ CTU-IoT records processed with a chunked loader for 10M+ row files
+
+![Accuracy](https://img.shields.io/badge/Accuracy-93%25-success?style=flat-square) ![ROC--AUC](https://img.shields.io/badge/ROC--AUC-0.989-success?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🚗 VANET Attacker Detection**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+Binary classifier on 149K records with z-score filtering & regularization
+
+![Accuracy](https://img.shields.io/badge/Accuracy-99.99%25-success?style=flat-square) ![ROC--AUC](https://img.shields.io/badge/ROC--AUC-1.0-success?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🚦 VANET Traffic Congestion Classification**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+4-class congestion classifier on 195K records, 5-fold cross-validation
+
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25%2B-success?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
