@@ -1,18 +1,208 @@
-# 💫 About Me:
-I am a Computer Science student and a passionate Full Stack MERN Developer who enjoys building modern, scalable, and user-friendly web applications. I have experience with React, Next.js, Node.js, Express.js, MongoDB, JavaScript, TypeScript, Python, and Java. I am also exploring Artificial Intelligence and Machine Learning while continuously improving my skills by working on real-world projects. I enjoy learning new technologies, solving challenging problems, and collaborating with developers to create impactful software solutions.
+<h1 align="center">Hi 👋, I'm Abaidullah Ghouri</h1>
 
+<h3 align="center">
+Full Stack Developer • Machine Learning Engineer • Computer Science Student
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abaid_ghouriiiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abaidullah-ghouri) 
+<p align="center">
+Passionate about building scalable web applications, AI-powered solutions, and modern software that solves real-world problems.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abaid9658&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abaid9658&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abaid9658&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abaid9658&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abaid9658&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+I'm a Computer Science student at **COMSATS University Islamabad** (CGPA: **3.7/4.0**) and a passionate Full Stack Developer with practical experience gained through multiple software engineering internships and real-world projects.
+
+I specialize in building scalable MERN Stack applications, REST APIs, cloud-ready backend systems, and modern frontend interfaces using React, Next.js, Node.js, Express.js, MongoDB, and TypeScript. Alongside full-stack development, I actively work on Artificial Intelligence, Machine Learning, and Data Science using Python and modern ML frameworks.
+
+I enjoy solving challenging problems, learning emerging technologies, contributing to open-source projects, and building software that creates real-world impact.
+
+- 🔭 Currently building scalable Full Stack MERN applications and AI-powered platforms
+- 🌱 Learning Machine Learning, Deep Learning, Generative AI, Docker, Kubernetes, AWS, DevOps, and System Design
+- 👯 Looking to collaborate on Open Source, SaaS, AI, and Full Stack Development projects
+- 💬 Ask me about React, Next.js, Node.js, Express.js, MongoDB, JavaScript, TypeScript, Python, Machine Learning, REST APIs, and Databases
+- 📫 Email: **abaidghouri9658@gmail.com**
+- ⚡ Fun Fact: I enjoy turning ideas into production-ready applications while continuously learning new technologies.
+
+---
+
+# 💼 Professional Experience
+
+### 🚀 Full Stack Developer Intern — TeyzixCore Software House
+
+- Developed production-ready MERN Stack applications
+- Built reusable React components
+- Developed secure REST APIs
+- Integrated MongoDB databases
+
+### 🚀 Full Stack Developer Intern — Developer Hubs
+
+- Developed full-stack web applications
+- Built responsive frontend interfaces
+- Worked in Agile development teams
+- Collaborated using Git & GitHub
+
+### 🚀 Full Stack & Data Science Intern — DecodeLabs
+
+- Developed Full Stack MERN applications
+- Performed Exploratory Data Analysis (EDA)
+- Built Fraud Detection Machine Learning models
+- Developed Customer Segmentation models
+- Worked with datasets containing millions of records
+
+---
+
+# 🚀 Featured Projects
+
+## 🏘️ LocalHub — Smart Community Platform
+
+A modern community platform built with Next.js, TypeScript, MongoDB, and Socket.io featuring authentication, real-time messaging, AI integration, buyer-seller marketplace, service providers, and responsive UI.
+
+---
+
+## 🚍 Naeem Movers Transport Management System
+
+A complete MERN Stack transport management platform with online booking, ticket management, payments, AI chatbot, admin dashboard, route management, customer management, and analytics.
+
+---
+
+## 🛒 Brand — Multi Vendor E-Commerce Platform
+
+Alibaba-inspired e-commerce platform featuring vendor management, authentication, product management, shopping cart, orders, payments, and admin dashboard.
+
+---
+
+## 💼 SkillBridge Marketplace
+
+A Fiverr-inspired MERN platform connecting freelancers and clients with authentication, project management, service listings, and secure workflows.
+
+---
+
+## 🤖 IoT Network Malware Detection
+
+Machine Learning model trained on over **2.6 Million** network records achieving **93% Accuracy** and **0.989 ROC-AUC** using XGBoost.
+
+---
+
+## 🚗 VANET Attacker Detection
+
+Machine Learning security system achieving **99.99% Accuracy** using XGBoost for intelligent transportation networks.
+
+---
+
+## 🚦 VANET Traffic Congestion Classification
+
+Multi-class Machine Learning model achieving **95%+ Accuracy** for traffic congestion prediction.
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Generative AI
+- RAG Applications
+- Docker
+- Kubernetes
+- AWS Cloud
+- CI/CD Pipelines
+- Microservices
+- System Design
+
+---
+
+# 🏆 Achievements
+
+- 🎓 BS Computer Science Student (COMSATS University Islamabad)
+- ⭐ CGPA: 3.7 / 4.0
+- 💼 Completed 3 Professional Internships
+- 🚀 Built Multiple Production-Level MERN Applications
+- 🤖 Developed High-Performance Machine Learning Models
+- 📚 Certified in Data Science, Machine Learning & Python
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abaidullah-ghouri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/abaid_ghouriiiiiii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:abaidghouri9658@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Vite
+
+### Backend
+
+Node.js • Express.js • NestJS • Laravel • Django • Flask • FastAPI • REST APIs
+
+### Mobile
+
+Flutter • Dart
+
+### Databases
+
+MongoDB • MySQL • PostgreSQL • SQLite • Redis • Firebase • Supabase • Prisma
+
+### AI / Machine Learning
+
+Python • Scikit-learn • TensorFlow • PyTorch • Pandas • NumPy • OpenCV • Matplotlib • Keras • XGBoost
+
+### Cloud & DevOps
+
+Docker • Kubernetes • AWS • GitHub Actions • GitLab CI • Nginx • Apache • Cloudflare • Vercel • Render • Netlify
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Swagger • Figma • Power BI
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=abaid9658&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=abaid9658&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abaid9658&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abaid9658&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=abaid9658&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## ⚡ Quote I Live By
+
+> **"The best way to learn is by building. Every project is an opportunity to improve, innovate, and create something meaningful."**
+
+---
+
+⭐ **If you like my work, consider following me and checking out my repositories!**
